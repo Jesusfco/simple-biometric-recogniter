@@ -1,0 +1,6 @@
+[submodule "sb-desktop"]
+	path = sb-desktop
+	url = git@github.com:Jesusfco/sb-desktop.git
+[submodule "sb-server"]
+	path = sb-server
+	url = git@github.com:Jesusfco/sb-server.git
